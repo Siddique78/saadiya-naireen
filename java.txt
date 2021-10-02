@@ -5,3 +5,8 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
+blic static void main(String[] args) {
+        System.out.println("Hello, World!");
+
+
+this is sadiya naireen 
